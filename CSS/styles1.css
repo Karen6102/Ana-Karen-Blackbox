@@ -1,0 +1,46 @@
+body {
+    background-color: #dbbc88; /* Color de fondo café claro */
+    font-family: 'Roboto', sans-serif; /* Fuente base más legible */
+    color: #3B2A2A; /* Color de texto general, más oscuro para contraste */
+    line-height: 1.6; /* Mejora la legibilidad del texto */
+}
+
+.ga-maamli-regular {
+    font-family: "Ga Maamli", sans-serif; /* Fuente personalizada */
+    font-weight: 400;
+}
+
+.indie-flower-regular {
+    font-family: "Indie Flower", cursive; /* Fuente personalizada */
+    font-weight: 400;
+}
+
+h2 {
+    font-size: 2.5rem; /* Tamaño de fuente ajustado */
+    color: #5B3A29; /* Color del texto ajustado para contraste */
+    letter-spacing: 0.2rem; /* Espaciado entre letras ajustado */
+    font-family: "Ga Maamli", sans-serif; /* Fuente personalizada */
+    text-shadow: 
+        0 2px rgba(255, 255, 255, 0.3), /* Sombra de texto más suave */
+        0 4px rgba(255, 255, 255, 0.2),
+        0 6px rgba(255, 255, 255, 0.1);
+    margin-bottom: 20px; /* Espaciado inferior para separar del contenido */
+}
+
+.texto {
+    font-family: "Indie Flower", cursive; /* Fuente personalizada */
+    font-size: 1.2rem; /* Tamaño de fuente ajustado */
+    letter-spacing: 0.1rem; /* Espaciado entre letras ajustado */
+    color: #4B3B2A; /* Color del texto ajustado para contraste */
+    margin-bottom: 20px; /* Espaciado inferior */
+}
+
+/* Estilo para enlaces */
+a {
+    color: #5B3A29; /* Color de enlaces ajustado */
+    text-decoration: none; /* Sin subrayado */
+}
+
+a:hover {
+    text-decoration: underline; /* Subrayado al pasar el mouse */
+}
